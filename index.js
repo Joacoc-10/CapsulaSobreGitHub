@@ -4,4 +4,13 @@ function laCajaDePandora(numero) {
   if (numero % 2 == 1) return numero.toString(16);
 }
 
-console.log(laCajaDePandora(234));
+
+
+function joaquinCurbelo () {
+  return {  
+    nombre: 'Joaquin Curbelo',
+    edad: 27,
+    nacionalidad: 'Uruguayo',
+  }
+}
+
