@@ -1,4 +1,4 @@
-function laCajaDePandora(numero){
-    // proximamente escribiremos codigo aqui
-    }
-    
+function laCajaDePandora(numero) {
+  // proximamente escribiremos codigo aqui
+}
+let hola;
