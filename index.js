@@ -9,3 +9,11 @@ function laCajaDePandora(numero) {
     return numero.toString(16);
   }
 }
+
+function Tobias() {
+  return {
+    nombre: "Tobias",
+    edad: 26,
+    nacionalidad: "Argentina",
+  };
+}
