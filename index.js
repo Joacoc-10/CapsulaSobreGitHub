@@ -8,5 +8,12 @@ function Franco() {
     nombre: 'Franco',
     edad: 23,
     nacionalidad: 'argentina',
-  };
+      }
+    }
+function Tobias() {
+  return {
+    nombre: "Tobias",
+    edad: 26,
+    nacionalidad: "Argentina",
+  }
 }
