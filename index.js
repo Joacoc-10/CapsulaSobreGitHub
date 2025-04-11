@@ -3,4 +3,10 @@ function laCajaDePandora(numero) {
   if (numero % 2 == 0) return numero.toString(16);
 }
 
-console.log('🚀 ~ laCajaDePandora:', laCajaDePandora(1287));
+function Franco() {
+  return {
+    nombre: 'Franco',
+    edad: 23,
+    nacionalidad: 'argentina',
+  };
+}
